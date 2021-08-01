@@ -1,0 +1,17 @@
+
+.registration-page{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+}
+
+.form-box{
+  border-radius: 18px;
+  box-shadow: 0px 0px 15px -5px black;
+  background-color: lightgray;
+  padding-bottom: 2%;
+  padding-top: 2%;
+  
+}
+
